@@ -1,0 +1,1 @@
+This is an animated Android Logo i found on codeplatyer.com, i took and added additional transform and translate features to it as well as adding a "suit" to him, created using only HTML and CSS, no JS in this file.
