@@ -52,7 +52,7 @@ div div {background: #A4CA39; position: relative;}
 
 .r_ant {
     right: 50px;
-    transform: rotate(30deg));
+    transform: rotate(30deg);
     -webkit-transform: rotate(30deg);
     -moz-transform: rotate(30deg);
 }
@@ -85,7 +85,7 @@ div div {background: #A4CA39; position: relative;}
 }
 
 .l_suit {
-    width: 105px; position: absolute;
+    width: 110px; position: absolute;
     height: 184px;
     background-color: #000;
     border-radius: 0 70px 0 25px;
@@ -94,7 +94,7 @@ div div {background: #A4CA39; position: relative;}
 }
 
 .r_suit {
-    width: 105px; position: absolute;
+    width: 110px; position: absolute;
     height: 184px;
     background-color: #000;
     right: 0px;
